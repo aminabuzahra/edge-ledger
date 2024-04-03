@@ -76,12 +76,6 @@ img {
   height: 100vh;
   color: #fff;
   position: relative;
-
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center; */
 }
 
 .hero .content {
